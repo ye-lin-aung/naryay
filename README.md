@@ -1,4 +1,5 @@
-# နာရေး.com
+# နာရေး.com 
+[နာရေး.com](https://နာရေး.com)
 
 ### Purpose 
 This project is only for fun.No need to be serious about it
