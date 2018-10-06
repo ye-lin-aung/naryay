@@ -1,4 +1,4 @@
-# နာရေး.com 
+# နာရေး.com
 [နာရေး.com](https://နာရေး.com)
 
 ### Purpose 
